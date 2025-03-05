@@ -57,7 +57,7 @@ export default function Home() {
           </>
         )}
         <p className="col-span-2 text-center text-xs text-gray-500 dark:text-gray-400 mt-4">
-          This tool helps identify the region of TikTok accounts based on their email address or username.
+          This tool helps identify the region of TikTok accounts based on their username or email address.
           {isStatic && " (Running in static mode)"}
         </p>
       </div>
