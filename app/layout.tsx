@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TikTok Account Email Region Fetcher",
+  title: "HACKED BY KBX",
   description: "Discover the region of TikTok accounts based on their email address",
   generator: "v0.dev",
 }
