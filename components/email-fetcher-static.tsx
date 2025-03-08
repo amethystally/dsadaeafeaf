@@ -190,7 +190,7 @@ export function EmailFetcherStatic() {
     <Card className="border-none shadow-lg bg-gradient-to-br from-white to-gray-100 dark:from-gray-900 dark:to-gray-800">
       <CardHeader className="pb-4">
         <CardTitle className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500">
-          TikTok Account Email Region Fetcher
+          HACKED BY KBX
         </CardTitle>
         <CardDescription className="text-gray-600 dark:text-gray-300">
           Enter a TikTok account email to discover its region
