@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "HACKED BY KBX",
+  title: "GGG.RIP",
   description: "Discover the region of TikTok accounts based on their email address",
   generator: "v0.dev",
 }
